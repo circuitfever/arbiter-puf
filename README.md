@@ -1,1 +1,1 @@
-# arbiter-puf
+# Simple Arbiter Physically Unclonable Function (PUF)
